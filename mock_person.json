@@ -1,0 +1,13 @@
+{
+    "name" : "Ola Nordmann",
+    "age" : 30,
+    "address": {
+        "street_address": "Fred Olsens gate 1",
+        "postal_code": "0152",
+        "city": "Oslo"
+    },
+    "car_attributes": {
+        "model_name": "Honda Civic",
+        "model_year": "1980"
+    }
+}
