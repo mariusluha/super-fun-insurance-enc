@@ -1,1 +1,5 @@
-# super-fun-insurance-enc
+To run this program, run ->
+
+```python
+symmetric_enc.py
+```
